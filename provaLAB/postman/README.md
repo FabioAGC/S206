@@ -6,7 +6,7 @@
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/FabioAGC/S206
+   git clone https://github.com/FabioAGC/S206/tree/main/provaLAB/postman
    ```
 
 2. **Instale as dependências:**
