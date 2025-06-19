@@ -7,7 +7,7 @@
 Se estiver usando Git:
 
 ```bash
-git clone https://github.com/FabioAGC/S206/tree/main/provaLAB/cypress)
+git clone https://github.com/FabioAGC/S206/tree/main/provaLAB/cypress
 ```
 
 
