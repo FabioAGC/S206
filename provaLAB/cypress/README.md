@@ -1,13 +1,4 @@
 
-# Testes Automatizados com Cypress - SauceDemo
-
-Este projeto contém 3 casos de teste automatizados com a ferramenta [Cypress](https://www.cypress.io/) para o site [saucedemo.com](https://www.saucedemo.com), incluindo um caso de teste negativo, conforme especificado no exercício.
-
-## Pré-requisitos
-
-- Node.js (recomendado: versão 18+)
-- npm (ou yarn)
-- Git (opcional)
 
 ## Passos para rodar o projeto
 
@@ -16,7 +7,7 @@ Este projeto contém 3 casos de teste automatizados com a ferramenta [Cypress](h
 Se estiver usando Git:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/FabioAGC/S206/tree/main/provaLAB/cypress)
 cd cypress-test-saucedemo
 ```
 
